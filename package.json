@@ -9,7 +9,10 @@
     "rubik's cube",
     "rubiks"
   ],
-  "repository": "https://github.com/atom/rubiks-syntax",
+  "repository":{
+    "type": "git",
+    "url": "https://github.com/thomas-wildeboer/rubiks-syntax"
+  },
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
