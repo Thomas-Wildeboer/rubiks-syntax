@@ -1,7 +1,7 @@
 {
   "name": "rubiks-syntax",
   "theme": "syntax",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Rubiks-Syntax is a theme based on the colours of a Rubik's Cube. The goal is to bring bright and contrasting colours that enhance readability.",
   "keywords": [
     "syntax",
@@ -9,10 +9,6 @@
     "rubik's cube",
     "rubiks"
   ],
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/thomas-wildeboer/rubiks-syntax"
-  },
   "repository": "https://github.com/thomas-wildeboer/rubiks-syntax",
   "license": "MIT",
   "engines": {
