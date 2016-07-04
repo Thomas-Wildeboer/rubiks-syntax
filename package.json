@@ -1,0 +1,17 @@
+{
+  "name": "rubiks-syntax",
+  "theme": "syntax",
+  "version": "0.0.1",
+  "description": "Rubiks-Syntax is a theme based on the colours of a Rubik's Cube. The goal is to bring bright and contrasting colours that enhance readability.",
+  "keywords": [
+    "syntax",
+    "theme",
+    "rubik's cube",
+    "rubiks"
+  ],
+  "repository": "https://github.com/atom/rubiks-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
