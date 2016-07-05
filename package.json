@@ -1,7 +1,7 @@
 {
   "name": "rubiks-syntax",
   "theme": "syntax",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "description": "Rubiks-Syntax is a theme based on the colours of a Rubik's Cube. The goal is to bring bright and contrasting colours that enhance readability.",
   "keywords": [
     "syntax",
