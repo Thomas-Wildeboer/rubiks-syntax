@@ -2,5 +2,5 @@
 * Every feature added
 * Every bug fixed
 
-## 0.5.0 - First Release
+## 0.5.0 - Fifth Release
 * Lighter colours
