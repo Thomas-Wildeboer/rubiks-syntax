@@ -1,9 +1,12 @@
-rubiks-syntax
-=============
+# Rubiks-Syntax
 
 Rubiks-Syntax is a theme based on the colours of a Rubik's Cube. The goal is to
-bring bright and contrasting colours that enhance readability.
+bring bright and contrasting colours that enhance readability together.
 
-Screenshot with Atom Material UI and Roboto Monospace
+## What is looks like
 
-![](https://i.imgur.com/KlWeXgg.png)
+![](https://i.imgur.com/Vk3PbJH.png)
+
+## Recommended Packages
+
+I recommend use of the Inconsolata font and Atom Material UI to make Rubiks-Syntax looks its best.
