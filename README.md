@@ -14,5 +14,5 @@ What it looks like
 Recommended Packages
 --------------------
 
-I recommend use of the Inconsolata font and Atom Material UI to make
-Rubiks-Syntax looks its best.
+- Inconsolata font
+- Atom Material UI
